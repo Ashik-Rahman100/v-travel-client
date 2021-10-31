@@ -1,5 +1,3 @@
-import { faClone, faCubes } from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import about from '../../images/about.png';
 import './About.css';
@@ -24,66 +22,6 @@ const About = () => {
                     <img className ='img-fluid' src={about} alt="" />
                 </div>
             </div>
-          </div>
-          {/* about footer */}
-         
-<div className ='container mt-5'>
-<div className="row row-cols-1 row-cols-md-3 g-4">
-  <div className="col">
-    <div className="card h-100">
-        <FontAwesomeIcon icon={faClone}></FontAwesomeIcon>
-      <div className="card-body">
-        <h5 className="card-title">Personalized Matching</h5>
-        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-  <div className="col">
-    <div className="card h-100">
-      <FontAwesomeIcon icon ={faCubes}></FontAwesomeIcon>
-      <div className="card-body">
-        <h5 className="card-title">Wide Variety Of Destinations</h5>
-        <p className="card-text">This is a short card.</p>
-      </div>
-    </div>
-  </div>
-  <div className="col">
-    <div className="card h-100">
-      
-      <div className="card-body">
-        <h5 className="card-title">Highly Qualified Service</h5>
-        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-      </div>
-    </div>
-  </div>
-  <div className="col">
-    <div className="card h-100">
-      <img src="..." className="card-img-top" alt="..."/>
-      <div className="card-body">
-        <h5 className="card-title">Handpicked Hotels</h5>
-        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-  <div className="col">
-    <div className="card h-100">
-      <img src="..." className="card-img-top" alt="..."/>
-      <div className="card-body">
-        <h5 className="card-title">Best Price Guarantee</h5>
-        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-  <div className="col">
-    <div className="card h-100">
-      <img src="..." className="card-img-top" alt="..."/>
-      <div className="card-body">
-        <h5 className="card-title">24/7 Support</h5>
-        <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-</div>
           </div>
         </div>
     );

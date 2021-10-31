@@ -2,8 +2,8 @@ import React from 'react';
 import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Blog from '../Blog/Blog';
+import Destination from '../Destination/Destination';
 import Expertise from '../Expertise/Expertise';
-import FeetnessCenter from '../FeetnessCenter/FeetnessCenter';
 import Gallery from '../Gallery/Gallery';
 import Login from '../Login/Login';
 import Services from '../Services/Services';
@@ -13,7 +13,7 @@ const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <FeetnessCenter></FeetnessCenter>
+            <Destination></Destination>
             <About></About>
             <Gallery></Gallery>
             <Services></Services>

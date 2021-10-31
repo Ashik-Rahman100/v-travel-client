@@ -3,13 +3,13 @@ import asia from '../../images/destination/asia.jpg';
 import europe from '../../images/destination/europe.jpg';
 import middleEast from '../../images/destination/middle-east.jpg';
 import russia from '../../images/destination/russia.jpg';
-import './FeetnessCenter.css';
+import './Destination.css';
 
 
-const FeetnessCenter = () => {
+const Destination = () => {
 
     return (
-        <div className='conatiner feetness-container text-white p-4'>
+        <div className='conatiner destination-container text-white p-4'>
             <h1 className= 'text-center pt-3'>OUR <span className ='text-warning'>DESTINATIONS </span> </h1>
               <div className="row pt-3">
                <div className='col-md-3 col-12'>
@@ -35,4 +35,4 @@ const FeetnessCenter = () => {
     );
 };
 
-export default FeetnessCenter;
+export default Destination;
