@@ -1,0 +1,50 @@
+[
+  {
+    "name": "John Carry",
+    "price": 1500,
+    "time": 7,
+    "title": "Eiffel Tower, Paris",
+    "img": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-france-eiffel-tower-lower-night.jpg",
+    "dis": "The symbol of Paris and one of the most photographed structures in the world, a visit to the Eiffel Tower is a must for all travelers. Few landmarks inspire such a passion for travel as this single iron structure.Young travelers heading out on the road for the first time, couples looking for a special getaway, artists looking to spur their creativity, and romantics of all types are all drawn to Paris. This is a city where history and culture collide and where travelers of all kinds can find the experience they're after."
+  },
+  {
+    "name": "Monalisa Lui",
+    "price": 1450,
+    "time": 5,
+    "title": "The Colosseum, Rome",
+    "img": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-italy-rome-colosseum.jpg",
+    "dis": "The most famous and largest structure still standing from the Roman Empire, the Colosseum is also the biggest attraction of modern-day Rome. It's been a bucket-list destination of travelers for generations. And it does not disappoint.Set in the heart of the city, the Colosseum is an easy place to visit. Direct flights from around the world land in Rome daily, making it a destination you can visit in a weekend if you choose. Wander through Rome's ancient streets, tour the colosseum, and if time allows, plan a trip to other areas of Italy."
+  },
+  {
+    "name": "Jessica Jui",
+    "price": 1600,
+    "time": 3,
+    "title": "Statue of Liberty, New York City",
+    "img": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-new-york-statue-of-liberty.jpg",
+    "dis": "America is full of great sights and places to visit, but it's the Statue of Liberty that represents the United States like no other place. This symbol of freedom in New York City was gifted by the French to the American people in 1896.Of all the attractions in New York City, this is one every tourist must see. The best thing to do at the Statue of Liberty is to take a ride up to her crown and soak up the view over the city. Access to the statue is via ferry, also a highlight of a visit."
+  },
+  {
+    "name": "Jonathon Doe",
+    "price": 79,
+    "time": 7,
+    "title": "Machu Picchu, Peru",
+    "img": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-peru-machu-picchu-overview.jpg",
+    "dis": "If you are planning to see only one attraction in South America, this is the place to come. The ancient Inca city of Machu Picchu is arguably the most impressive ruined city in the world.Much of the attraction comes from its location, high in the jungle-clad mountains of Peru. Set on a high plateau with soaring green mountains, the setting is surreal. The sheer tenacity of the original builders to create this amazing place in what would have been impenetrable jungle, is, in itself, impressive."
+  },
+  {
+    "name": "Kirti Sen",
+    "price": 1000,
+    "time": 4,
+    "title": "The Taj Mahal, India",
+    "img": "https://www.planetware.com/wpimages/2020/08/top-attractions-in-the-world-india-taj-mahal.jpg",
+    "dis": "The Taj Mahal is the one sight in India that all travelers need to see. The country is filled with incredible cities and fabulous places to visit, but the 17th-century Taj Mahal is the one place that says you've been to India.This mausoleum, commissioned by the Shah Jahan for his wife, Mumtaz Mahal, is known internationally as a symbol of love. This fantastic structure, made with inlaid precious and semi-precious stones, has to be visited to be fully appreciated."
+  },
+  {
+    "name": "Ashik.R",
+    "price": 800,
+    "time": 3,
+    "title": "Cox’s Bazar, Bangladesh",
+    "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2017/03/Cox%E2%80%99s-Bazar-scaled.jpg",
+    "dis": "Spilling out into the Bay of Bengal is Cox’s Bazar, an area covered in salty fishing skiffs and bustling jetties.This little town in the far south-east of Bangladesh is known for its stunning beach which stretches for an amazing 120 kilometers from north to south along the side of the balmy Indian Ocean.This is the third longest beach on the planet and you will find local fishermen reeling in the day’s catch as well as bubbling rock pools and crashing turquoise waves that make this a great spot for surfing."
+  }
+]

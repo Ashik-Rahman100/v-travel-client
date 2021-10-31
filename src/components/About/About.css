@@ -1,0 +1,20 @@
+.learn{
+    margin-top:80px;
+  
+}
+.learn button{
+        width:200px;
+        color:white;
+        height:50px;
+        border-radius: 30px;
+        padding: 10px;
+        background-color: rgb(252, 79, 48);
+        color:white;
+        border: 3px solid white;
+    
+};
+
+.learn button:hover{
+    background-color: white;
+    color: tomato;
+}
